@@ -1,0 +1,33 @@
+* text=auto eol=lf
+
+*.c      text
+*.h      text
+*.S      text
+*.ld     text
+*.mk     text
+Makefile text
+*.sh     text
+*.nix    text
+*.md     text
+*.txt    text
+*.yml    text
+*.yaml   text
+*.gitignore text
+*.gitattributes text
+
+*.efi    binary
+*.elf    binary
+*.o      binary
+*.a      binary
+*.so     binary
+*.bin    binary
+*.img    binary
+*.iso    binary
+
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.ico    binary
+*.icns   binary
+*.ttf    binary
+*.otf    binary
